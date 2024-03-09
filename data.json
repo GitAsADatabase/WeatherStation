@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "timestamp": "20240309-190001",
+    "temperature": "10.4",
+    "humidity": "59",
+    "windSpeed": "3.4",
+    "gustSpeed": "4.4",
+    "rain": "328.5",
+    "windDirection": "90.0"
+  }
+]
