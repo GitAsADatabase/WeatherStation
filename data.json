@@ -160,5 +160,14 @@
     "gustSpeed": "4.7",
     "rain": "328.5",
     "windDirection": "90.0"
+  },
+  {
+    "timestamp": "20240310-130001",
+    "temperature": "13.0",
+    "humidity": "51",
+    "windSpeed": "3.0",
+    "gustSpeed": "3.7",
+    "rain": "328.5",
+    "windDirection": "90.0"
   }
 ]
