@@ -1,14 +1,5 @@
 [
   {
-    "timestamp": "20240819-020002",
-    "temperature": "14.5",
-    "humidity": "87",
-    "windSpeed": "0.0",
-    "gustSpeed": "0.0",
-    "rain": "0.0",
-    "windDirection": "225.0"
-  },
-  {
     "timestamp": "20240819-030001",
     "temperature": "14.1",
     "humidity": "91",
@@ -214,5 +205,14 @@
     "gustSpeed": "0.3",
     "rain": "0.0",
     "windDirection": "112.5"
+  },
+  {
+    "timestamp": "20240820-020001",
+    "temperature": "14.8",
+    "humidity": "94",
+    "windSpeed": "0.6",
+    "gustSpeed": "1.0",
+    "rain": "0.0",
+    "windDirection": "135.0"
   }
 ]
